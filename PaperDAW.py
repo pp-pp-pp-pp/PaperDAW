@@ -1,3 +1,8 @@
+# This is a Dev Note for myself you can ignore this.
+# File version: MidaDaw7.py
+# ***
+# Welcome to PaperDAW!
+# -p
 import sys
 import numpy as np
 import sounddevice as sd
