@@ -1,0 +1,4 @@
+K . . . S . . . K . B . S . . . | K . . . S . . C K . B . S . . . |
+K . . . S . . . K . B . S . . C | K . . . S . . C K . B . S C C C |
+K . . . S . . . K . B . S . . . | K . . . S . . C K . B . S . . . |
+K . . . S . . . K . B . S . . C | K . . . S . . C K . B . S C C C |
